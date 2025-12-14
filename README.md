@@ -17,7 +17,8 @@ The website showcases:
 
 - HTML5
 - CSS3
-- Google Fonts (Playfair Display & Lato)
+- Google Fonts (Playfair Display & Lato)[style.css](https://github.com/user-attachments/files/24149013/style.css)
+
 - Responsive Grid Layout
 - Modern card hover effects
 
@@ -25,3 +26,6 @@ The website showcases:
 
 ![Kasthuri Mess Preview](hero-image.jpg)
 
+![delicious-brazilian-food-composition-with-copy-space](https://github.com/user-attachments/assets/50b8c44d-f7a9-4bc9-94b5-304e9e504ef6)
+[index.html](https://github.com/user-attachments/files/24149009/index.html)
+![delicious-brazilian-food-composition-with-copy-space](https://github.com/user-attachments/assets/cff19875-2538-4ff6-8be5-f4066fff3133)
